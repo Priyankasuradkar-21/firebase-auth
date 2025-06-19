@@ -1,4 +1,5 @@
 🔐 Firebase JWT Auth API (Node.js + Postman)
+
 This project is a lightweight Node.js backend that integrates Firebase Authentication using JWT tokens. It demonstrates how to authenticate users via Firebase, manually retrieve tokens using Postman, and secure Express routes with the Firebase Admin SDK.
 
 🚀 Features
